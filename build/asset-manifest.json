@@ -1,13 +1,42 @@
 {
   "files": {
-    "main.css": "/static/css/main.d626c509.css",
-    "main.js": "/static/js/main.d3c9f828.js",
+    "main.css": "/static/css/main.b4a0cc49.css",
+    "main.js": "/static/js/main.8b6e07e2.js",
+    "static/media/CINNAMON_SUNSET.png": "/static/media/CINNAMON_SUNSET.e6efb6a87cab7832d1d3.png",
+    "static/media/MIDNIGHT_WHISPER.png": "/static/media/MIDNIGHT_WHISPER.9e63f3ab57671633aa5c.png",
+    "static/media/WILD_RUBY.png": "/static/media/WILD_RUBY.0eb9fdd19814f97ba4ce.png",
+    "static/media/CITRUS_MIRAGE.png": "/static/media/CITRUS_MIRAGE.e2805ce3529b72278846.png",
+    "static/media/POIRE_DORÉE.png": "/static/media/POIRE_DORÉE.c98ceba7cf1592e7851b.png",
+    "static/media/GOD_MOTHER.png": "/static/media/GOD_MOTHER.b51c51a4b48582f49e60.png",
+    "static/media/GIN_FIZZ.png": "/static/media/GIN_FIZZ.9e2b9389cc73d3c55dbf.png",
+    "static/media/AMERICANO.png": "/static/media/AMERICANO.7acfe60e2a6f7cf6bc3d.png",
+    "static/media/JAPANESE_ICE_TEA.png": "/static/media/JAPANESE_ICE_TEA.f08c8273cbf220725cb2.png",
+    "static/media/JACK_&_COLA.png": "/static/media/JACK_&_COLA.4c6a2377e6e228d9eebe.png",
+    "static/media/CAIPIROSKA.png": "/static/media/CAIPIROSKA.d62943cce2e42de0b4b6.png",
+    "static/media/GOD_FATHER.png": "/static/media/GOD_FATHER.12b09cc8ec8deeeb66e4.png",
+    "static/media/JUNE_BUG.png": "/static/media/JUNE_BUG.81ea9e8ab2cde9a20961.png",
+    "static/media/CUBA_LIBRE.png": "/static/media/CUBA_LIBRE.21f18ec4a217bc72194f.png",
+    "static/media/JEGER_MOJITO.png": "/static/media/JEGER_MOJITO.82a5789145e45f939df0.png",
+    "static/media/AMERICAN_BEAUTY.png": "/static/media/AMERICAN_BEAUTY.8808aab67f445266ffd5.png",
+    "static/media/PORNOSTAR_MARTINI.png": "/static/media/PORNOSTAR_MARTINI.78cf16674735108e0a0a.png",
+    "static/media/COCKTAIL_MARTINI.png": "/static/media/COCKTAIL_MARTINI.016c6485ae6ecfeb7ae4.png",
+    "static/media/DAIQUIRI.png": "/static/media/DAIQUIRI.9b7d91329765537ef586.png",
+    "static/media/CAIPIRINHA.png": "/static/media/CAIPIRINHA.dfdd9a8e243df004e2b6.png",
+    "static/media/COSMOPOLITAN.png": "/static/media/COSMOPOLITAN.284069e778c83201bc2e.png",
+    "static/media/BELLINI.png": "/static/media/BELLINI.ec000fc15f5349e5e6f9.png",
+    "static/media/B52.png": "/static/media/B52.edbbcb44ca4619473d8a.png",
+    "static/media/BLACK_RUSSIAN.png": "/static/media/BLACK_RUSSIAN.dee3155ef8e07e70c924.png",
+    "static/media/ALEXANDER.png": "/static/media/ALEXANDER.d357fb6082050cb593a1.png",
+    "static/media/MANGO_ROYAL.jpg": "/static/media/MANGO_ROYAL.5616971efd26d100f418.jpg",
+    "static/media/IRISH_COFFEE.jpg": "/static/media/IRISH_COFFEE.d1e45dfb2e1bb14c544c.jpg",
+    "static/media/BLODY_MARY.webp": "/static/media/BLODY_MARY.e7dfff9d2937e28d89cf.webp",
+    "static/media/GARIBALDI.webp": "/static/media/GARIBALDI.d6797eecabda9e1cb539.webp",
     "index.html": "/index.html",
-    "main.d626c509.css.map": "/static/css/main.d626c509.css.map",
-    "main.d3c9f828.js.map": "/static/js/main.d3c9f828.js.map"
+    "main.b4a0cc49.css.map": "/static/css/main.b4a0cc49.css.map",
+    "main.8b6e07e2.js.map": "/static/js/main.8b6e07e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.d626c509.css",
-    "static/js/main.d3c9f828.js"
+    "static/css/main.b4a0cc49.css",
+    "static/js/main.8b6e07e2.js"
   ]
 }
