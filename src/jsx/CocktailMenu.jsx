@@ -21,7 +21,6 @@ import ginFizzImg from '../foto/GIN_FIZZ.png';
 import godFatherImg from '../foto/GOD_FATHER.png';
 import godMotherImg from '../foto/GOD_MOTHER.png';
 import irishCoffeeImg from '../foto/IRISH_COFFEE.jpg';
-// eslint-disable-next-line import/no-webpack-loader-syntax
 import jackColaImg from '../foto/JACK_&_COLA.png';
 import japaneseIceTeaImg from '../foto/JAPANESE_ICE_TEA.png';
 import jegerMojitoImg from '../foto/JEGER_MOJITO.png';

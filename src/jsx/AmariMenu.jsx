@@ -64,14 +64,14 @@ const sections = [
             { name: 'Seven Tiki', price: 8 },
             { name: 'Zacapa 23', price: 17 },
             { name: 'Zacapa 23 Edition Negra', price: 20 },
-            { name: "Zacapa XO'", price: 25 },
+            { name: "Zacapa XO", price: 25 },
         ],
     },
     {
         id: 'whisky',
         title: 'Whisky',
         items: [
-            { name: 'Ballantine\'s', price: 5 },
+            { name: "Ballantine's", price: 5 },
             { name: 'Bunnahabhain 12y', price: 18 },
             { name: 'Bunnahabhain 18y', price: 25 },
             { name: 'Caol Ila 12y', price: 12 },
