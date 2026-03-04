@@ -1,0 +1,149 @@
+VINI BIANCHI;
+
+Falanghina IGT “futir” Nifo
+Sarrapocchiello;
+6;
+30;
+Fiano del Sannio DOC
+“anafriis”- Nifo Sarrapocchiello;
+6;
+30;
+Greco del Sannio DOC
+“geneta”- Nifo Sarrapocchiello;
+6;
+30;
+Chardonnay DOC “la fuga
+contessa entellina”-Donnafugata;
+7;
+40;
+Damarino DOC - Donnafugata;
+6;
+30;
+Pallagrello bianco IGP
+“lancella”- Cantina di Lisandro;
+7;
+30;
+Chardonnay Alto Adige DOC
+2023 - Tramin;
+7;
+40;
+Sauvignon Alto Adige DOC
+2023 - Tramin;
+7;
+40;
+Gewurztraminer SELIDA -
+Tramin;
+7;
+40;
+
+
+VINI ROSSI;
+
+Aglianico IGT “tritan”
+- Nifo Sarrapocchiello;
+6;
+30;
+Aglianico del Taburno DOCG
+“pontius”- Nifo Sarrapocchiello;
+6;
+30;
+Cerasuolo Di Vittoria DOCG
+“floramundi”- Donnafugata;
+8;
+50;
+Nero d’avola DOC “contesa dei
+venti”- Donnafugata;
+7;
+40;
+Vittoria DOC frappato
+“bell’assai”- Donnafugata;
+8;
+50;
+Pallagrello nero IGT “rosa del
+tempo”- Cantina di Lisandro;
+6;
+30;
+Pallagrello nero casavecchia
+IGP “terarzulo”- Cantina di Lisandro;
+6;
+30;
+Pallagrello nero IGP “nero di
+rena”- Cantina di Lisandro;
+7;
+40;
+Cimmarino casavecchia IGT - Cantina di Lisandro;
+6;
+30;
+
+VINI DOLCI E DA DESSERT;
+
+Passito di Pantelleria “Ben Rye” -Donnafugata;
+10;
+Porto - Sandeman;
+5;
+
+CALVADOS;
+Calvados Pays d'Auge 'Originel'
+- Lecompte;
+9;
+
+BOLLICINE;
+
+Brachetto;
+4;
+30;
+Bottega prosecco millesimato Extra Dry;
+4;
+30;
+Bellavista;
+8;
+60;
+Bellavista 1,5l;
+120;
+Bellavista rosé;
+70;
+Bellavista teatro la scala;
+80;
+Bellavista 3l;
+280;
+Ca’del bosco cuvee prestige;
+8;
+60;
+Champagne perrier jouet “belle epoque”2014;
+220;
+Cliquot veuve;
+100;
+Cliquot veuve 1,5l;
+220;
+Cliquot rich rosè;
+130;
+Chandon Garden Spritz;
+30;
+Krug grande cuvee;
+300;
+Moet & chandon imperial;
+10;
+90;
+Moet & chandon 1,5l;
+220;
+Moet & chandon ice imperial;
+12;
+110;
+Moet & chandon ice rosé;
+130;
+Moet ice magnum 1,5l;
+230;
+Moet ice jeroboam 3l;
+500;
+Moet nir nectar rosé;
+290;
+Moet golden light up 1,5l;
+270;
+Cristal Louis Roederer;
+270;
+Champagne brut “la cuvée” Laurent Perrier;
+90;
+Champagne brut R de Ruinart;
+90;
+Dom perignon 2012;
+420;
