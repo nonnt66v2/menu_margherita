@@ -1,0 +1,184 @@
+CAFFETTERIA;
+Caffe espresso;
+1,80;
+Caffe doppio;
+3,60;
+Caffe schiumato;
+1,80;
+Caffe macchiato;
+1,80;
+Caffe decaffeinato;
+2;
+Caffe ginseng;
+2;
+Caffe ginseng max;
+4
+Caffe orzo;
+2;
+Caffe orzo max;
+4;
+Caffe nocciola;
+3;
+Caffe shakerato;
+4;
+Caffe americano;
+3;
+Caffe pugliese;
+3;
+Caffe marocchino;
+2;
+Caffe brasiliano;
+1,50;
+Latte bianco;
+2,50
+Latte macchiato;
+2,50;
+Cappuccino;
+2;
+Cappuccino decaffeinato;
+3;
+Cappuccino di soia;
+3;
+Cappuccino senza lattosio;
+3;
+Cappuccino ginseng;
+3;
+Cappuccino nocciola;
+3;
+Cappuccino orzo;
+3;
+Iced caramel macchiato;
+5;
+Crema caffe;
+3;
+Caffe freddo;
+2,50;
+Caffe kinder;
+4;
+Caffe kinder ice;
+4;
+Affogato al caffe;
+3,50;
+
+PASTICCERIA;
+
+Abbraccio crema amarena;
+2;
+Babà al rhum;
+4;
+Conchiglia cioccolato;
+2;
+Conchiglia panna latte;
+2;
+Cornetto vuoto al burro;
+2;
+Cornetto albicocca;
+2;
+Cornetto aloe, curcuma, pesca;
+2;
+Cornetto cereali e miele;
+2;
+Cornetto cioccolato;
+2;
+Cornetto cioccolato bianco;
+2;
+Cornetto crema;
+2;
+Cornetto crema amarena;
+2;
+Cornetto fiori di sambuco;
+2;
+Cornetto frutti di bosco;
+2;
+Cornetto ischitano;
+2;
+Cornetto pistacchio;
+2;
+Cornetto vegano;
+2;
+Cornetto mini;
+1,50;
+Donuts nocciola;
+2;
+Graffa;
+2;
+Mini pastiera napoletana;
+4,50;
+Muffin albicocca;
+3;
+Muffin cioccolato;
+3;
+Muffin cioccolato bianco;
+3;
+Muffin frutti di bosco;
+3
+Muffin vuoto;
+2,50;
+Mini muffin cioccolato;
+1,50;
+Pasticciotto leccese;
+3;
+Mini pasticciotto leccese;
+2;
+Sfogliatella riccia/frolla;
+2;
+
+
+SUCCHI DI FRUTTA ;
+
+Succo di frutta Ace;
+3;
+Succo di frutta Albicocca;
+3;
+Succo di frutta Ananas;
+3;
+Succo di frutta Mela annurca bio;
+3,50;
+Succo di frutta Mirtillo;
+3;
+Succo di frutta Pesca;
+3;
+Succo di frutta Pesca mango;
+3,50;
+Succo di frutta Pera;
+3;
+Succo di frutta Pompelmo;
+3;
+
+
+SPREMUTE;
+
+Spremuta d’arancia;
+5;
+Spremuta di limone;
+4;
+Spremuta di melograno;
+6;
+Spremuta mix arancia e limone;
+5;
+Spremuta mix arancia e
+melograno;
+6;
+Frullati di frutta fresca;
+6;
+
+DESSERT;
+
+Cheesecake albicocca;
+5;
+Cheesecake frutti di bosco;
+5;
+Cheesecake pistacchio;
+5;
+Cheesecake nocciola;
+5;
+Delizia al limone;
+5;
+Duetto: Pan di Spagna al cacao
+con crema al cioccolato bianco;
+5;
+Tiramisù;
+5
+Tortino cuore caldo cioccolato /
+cioccolato bianco / pistacchio;
+4,50
